@@ -1,0 +1,6 @@
+.DS_Store
+**/.DS_Store
+frontend/dist/*
+frontend/node_modules/*
+backend/static/*
+**/__pycache__/*
